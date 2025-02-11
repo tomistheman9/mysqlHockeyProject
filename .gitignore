@@ -1,0 +1,16 @@
+# Ignore backup SQL files
+*.bak
+
+# Ignore temporary SQL script files
+*.sql~
+
+# Ignore SQL dump files
+dump.sql
+*.dmp
+
+# Ignore log files
+*.log
+
+# Ignore IDE/editor directories
+.vscode/
+.idea/

@@ -1,0 +1,3 @@
+# Hockey Database Project Requirements
+# This project uses only SQL scripts.
+# No external dependencies are required for these scripts.
